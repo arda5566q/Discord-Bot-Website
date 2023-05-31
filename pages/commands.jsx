@@ -3,27 +3,34 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+    "/afk",
+    "/avatar",
+    "/ban",
+    "/ban-list",
+    "/emoji-yazı",
+    "/emojiler",
+    "/forceban",
+    "/giriş-çıkış ayarla",
+    "/istatistik",
+    "/kanal-açıklama",
+    "/kayıt-et",
+    "/kayıtlı-rol",
+    "/kick",
+      "/küfür-engel",
+      "/kurucu",
+      "/oto-rol",
+      "/oto-tag",
+      "/oylama",
+      "/ping",
+      "/reklam-engel",
+      "/rol-al"
+      "/rol-oluştur"
+      "/rol-ver"
+      "/sa-as"
+      "/temizle"
+      "/unban"
+      "/yardım"
+      "/yavaş-mod"
       ]
   return (
     <>
