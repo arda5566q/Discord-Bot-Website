@@ -56,25 +56,25 @@ Lucıfer'a Oy Ver</a>
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
                   <p className="text-gray-500 line-clamp-4">Sunucunuza özel hızlı ve özelleştirilebilir ayarları ile Lucıfer size güvenirlik, moderasyon ve nice kodları sayesinde güvenli bir sunucu yönetmenizi sağlar.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">Sunucunuzu güvenli bir şekilde korur. (Lucıfer Bot) | (Tüm telif haklarına ve lisanslara uygun bir bottur.)</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Evrensel</p>
+                  <p className="text-gray-500 line-clamp-4">Neredeyse tüm sunucu türklerine hitap eden bir bot olan Lucıfer Bot | (Tüm telif haklarına ve lisanslara uygun bir bottur.)</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Güvenlik</p>
                   <p className="text-gray-500 line-clamp-4">Göz atabileceğiniz ve geliştirmemize yardımcı olabileceğiniz güvenilir bir bot.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Destek</p>
                   <p className="text-gray-500 line-clamp-4">En iyi ekip arkadaşlarımızla, yardıma ihtiyacı olan herkese en hızlı şekilde yanıt veriyoruz.</p>
                 </div>
               </div>
