@@ -63,7 +63,7 @@ Lucıfer'a Oy Ver</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Evrensel</p>
-                  <p className="text-gray-500 line-clamp-4">Neredeyse tüm sunucu türklerine hitap eden bir bot olan Lucıfer Bot | (Tüm telif haklarına ve lisanslara uygun bir bottur.)</p>
+                  <p className="text-gray-500 line-clamp-4">Neredeyse tüm sunucu türlerine hitap eden bir bot olan Lucıfer Bot | (Tüm telif haklarına ve lisanslara uygun bir bottur.)</p>
                 </div>
               </div>
               <div>
