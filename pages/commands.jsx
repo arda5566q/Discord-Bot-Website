@@ -23,14 +23,14 @@ export default function Commands() {
       "/oylama",
       "/ping",
       "/reklam-engel",
-      "/rol-al"
-      "/rol-oluştur"
-      "/rol-ver"
-      "/sa-as"
-      "/temizle"
-      "/unban"
-      "/yardım"
-      "/yavaş-mod"
+      "/rol-al",
+      "/rol-oluştur",
+      "/rol-ver",
+      "/sa-as",
+      "/temizle",
+      "/unban",
+      "/yardım",
+      "/yavaş-mod",
       ]
   return (
     <>
