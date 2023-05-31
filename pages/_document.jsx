@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Başka botlara ihtiyaç duymadan sadece LUCIFER ile tüm ihtiyaçlarına karşılamaya hazır mısın? 150'den fazla desteklenen kod ile kendi sunucunuzu koruyabilir,eğlendirebilir ve nice komutlarımız ile moderasyon işlemlerinizi halledebilirsiniz."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@MusicMaker" />
@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Başka botlara ihtiyaç duymadan sadece LUCIFER ile tüm ihtiyaçlarına karşılamaya hazır mısın? 150'den fazla desteklenen kod ile kendi sunucunuzu koruyabilir,eğlendirebilir ve nice komutlarımız ile moderasyon işlemlerinizi halledebilirsiniz."
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="MusicMaker" />
