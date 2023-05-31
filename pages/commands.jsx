@@ -54,7 +54,7 @@ export default function Commands() {
                  
                     <>
                       <i className="fa fa-hashtag text-white text-opacity-20" />
-                     View Commands List
+                     Komut Listesini Görüntüle
                     </>
                 
                 </div>
